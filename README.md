@@ -1,5 +1,5 @@
 # rsschool-cv
 
-CV part 1 task
+CV part 2 task "HTML, CSS & Git Basics"
 
-https://ArtDinWin.github.io/rsschool-cv/cv
+https://ArtDinWin.github.io/rsschool-cv/
