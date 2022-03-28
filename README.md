@@ -1,2 +1,3 @@
 # rsschool-cv
-CV task
+
+CV part 1 task
